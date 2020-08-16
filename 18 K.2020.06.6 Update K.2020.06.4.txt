@@ -1,5 +1,0 @@
-Altering [dbo].[Ksp_Relatorio_Prescricao_Completa]...
-The transacted portion of the database update succeeded.
-Update complete.
-
-(1 rows affected)
